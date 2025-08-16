@@ -46,8 +46,3 @@ npm start
 
 ## Link de video de funcionalidad y preguntas:
 https://drive.google.com/drive/folders/1YJFZckjhSBR03bji4U0njvoRlmCRdqs7?usp=sharing
-
-
-Link de video de funcionalidad y preguntas:
-
-https://drive.google.com/drive/folders/1YJFZckjhSBR03bji4U0njvoRlmCRdqs7?usp=sharing
