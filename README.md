@@ -43,3 +43,11 @@ npm start
 - Eliminación de fotos individual
 - Edición y eliminación de registros
 - Persistencia con AsyncStorage
+
+## Link de video de funcionalidad y preguntas:
+https://drive.google.com/drive/folders/1YJFZckjhSBR03bji4U0njvoRlmCRdqs7?usp=sharing
+
+
+Link de video de funcionalidad y preguntas:
+
+https://drive.google.com/drive/folders/1YJFZckjhSBR03bji4U0njvoRlmCRdqs7?usp=sharing
